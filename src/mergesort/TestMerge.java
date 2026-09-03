@@ -45,4 +45,11 @@ public class TestMerge {
         }
     }
 
+
+    /*
+    timecomplexity: best,worst,average - O(nlogn)
+    spacecomplexity: creating tmp array to store data for merging two sorted array
+                     // O(n)
+     */
+
 }
