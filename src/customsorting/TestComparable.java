@@ -46,10 +46,10 @@ public class TestComparable {
         list.add(s2);
         list.add(s3);
         list.add(s4);
-        System.out.println("Before sorting..");
+        System.out.println("Before comparable sorting..");
         System.out.println(list);
         Collections.sort(list);
-        System.out.println("After sorting..");
+        System.out.println("After Comparable sorting..");
         System.out.println(list);
     }
 

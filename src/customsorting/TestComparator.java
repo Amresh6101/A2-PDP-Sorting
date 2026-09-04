@@ -50,7 +50,7 @@ public class TestComparator {
         System.out.println("Before sorting..");
         System.out.println(list);
         list.sort(new SortStudentByAge());
-        System.out.println("After sorting By roll number..");
+        System.out.println("After sorting By Age ..");
         System.out.println(list);
 
     }
